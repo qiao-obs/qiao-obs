@@ -1,10 +1,11 @@
-<a href="https://github.com/qiao-obs">
-  <picture>
-    <source type="image/avif" srcset="./assets/launch.avif">
-    <img src="./assets/launch-poster.jpg" width="100%" alt="Falcon 9 夜间点火升空：烟云翻滚，火箭爬升穿过大气，在太空中迎来日出。">
-  </picture>
-</a>
+<p align="center">
+<picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/01-folio-hero.avif"><img src="./assets/art/01-folio-hero.jpg" width="100%" align="top" alt="qiao-obs · ART · CODE · EXPLORATION。主画《星夜花园》：旋转的星空与新月下，落日映在花园水面上，岸边是睡莲、鸢尾与向日葵。题句：向未知架桥，然后跨过去。"></picture>
+<picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/02-folio-studies.avif"><img src="./assets/art/02-folio-studies.jpg" width="100%" align="top" alt="手稿页：星夜下的麦田与小路，手写「把想法，慢慢做成现实。」；鸢尾与杏花的植物手稿，Observation、Thinking、Building、Iterating、Exploring 的手写笔记与四枚颜料色样。"></picture>
+<a href="https://github.com/qiao-obs/qiaobs-skills"><picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/03-folio-project.avif"><img src="./assets/art/03-folio-project.jpg" width="100%" align="top" alt="qiaobs-skills：Three reality-tested Agent Skills for root-cause tracing, bounded autonomous workpacks, and evidence-grounded learning. 探索作品。石桥速写与浑天仪，下方是夜色小镇与睡莲池，署名 qiao-obs。"></picture></a>
+<picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/04-gallery-paintings.avif"><img src="./assets/art/04-gallery-paintings.jpg" width="100%" align="top" alt="II GARDEN GALLERY · 花园画廊。金框中的杏花、鸢尾与日落色彩研究，旁边是颜料手记。"></picture>
+<a href="https://github.com/qiao-obs/qiaobs-skills"><picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/05-gallery-project.avif"><img src="./assets/art/05-gallery-project.jpg" width="100%" align="top" alt="qiaobs-skills：让想法成为作品。探索作品。花园石桥油画与桥梁建筑草图，下方是睡莲池、垂柳与花园全景。"></picture></a>
+<picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/06-nocturne-triptych.avif"><img src="./assets/art/06-nocturne-triptych.jpg" width="100%" align="top" alt="III NOCTURNE · 夜色长卷。深蓝与金色的三联画 BLOOM、BRIDGE、LIGHT：杏花、月夜石桥、鸢尾与向日葵，旁边是月相。"></picture>
+<a href="https://github.com/qiao-obs/qiaobs-skills"><picture><source type="image/avif" media="(prefers-reduced-motion: no-preference)" srcset="./assets/art/07-nocturne-project.avif"><img src="./assets/art/07-nocturne-project.jpg" width="100%" align="top" alt="qiaobs-skills：让想法成为作品。探索作品。金色桥梁手稿、植物标本页，以及倒映星光与月影的睡莲池，署名 qiao-obs。"></picture></a>
+</p>
 
-<div align="center">
-<sub>向未知架桥，然后跨过去。&nbsp;·&nbsp; <a href="https://github.com/qiao-obs/qiaobs-skills">qiaobs-skills</a></sub>
-</div>
+<p align="center"><sub>向未知架桥，然后跨过去。&nbsp;·&nbsp; <a href="https://github.com/qiao-obs/qiaobs-skills">qiaobs-skills</a>&nbsp;·&nbsp; <a href="./assets/art/scroll.jpg">静态长卷</a></sub></p>
